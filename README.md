@@ -18,11 +18,10 @@ The notebook includes 10 meaningful visualizations with accompanying insights. S
  3.Gender-Based Survival Rates: Highlights the significant gender disparity in survival rates.
  4.Fare Distribution by Class and Survival: Analyzes how fare price correlated with survival rates across different classes.
  5.Survival Rates by Embarkation Point: Examines the impact of the port of embarkation on survival. Each visualization is followed by a detailed insight explaining the findings and their significance.
-
 To run the notebook, you need the following Python libraries:
 
- >pandas
- >numpy
- >matplotlib
- >seaborn
+ .pandas
+ .numpy
+ .matplotlib
+ .seaborn
 Contributions are welcome! If you have any ideas or suggestions to improve this project, feel free to open an issue or submit a pull request.

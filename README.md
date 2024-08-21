@@ -22,4 +22,5 @@ To run the notebook, you need the following Python libraries:
  * numpy
  * matplotlib
  * seaborn
+
 Contributions are welcome! If you have any ideas or suggestions to improve this project, feel free to open an issue or submit a pull request.

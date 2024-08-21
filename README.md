@@ -13,15 +13,16 @@ The data cleaning process involves the following steps: Handling Missing Values:
 
 The notebook includes 10 meaningful visualizations with accompanying insights. Some of the key visualizations include:
 
-Survival Rate by Passenger Class: Demonstrates how passenger class impacted survival chances.
-Age Distribution of Survivors and Non-Survivors: Provides insight into how age influenced survival.
-Gender-Based Survival Rates: Highlights the significant gender disparity in survival rates.
-Fare Distribution by Class and Survival: Analyzes how fare price correlated with survival rates across different classes.
-Survival Rates by Embarkation Point: Examines the impact of the port of embarkation on survival. Each visualization is followed by a detailed insight explaining the findings and their significance.
+ 1.Survival Rate by Passenger Class: Demonstrates how passenger class impacted survival chances.
+ 2.Age Distribution of Survivors and Non-Survivors: Provides insight into how age influenced survival.
+ 3.Gender-Based Survival Rates: Highlights the significant gender disparity in survival rates.
+ 4.Fare Distribution by Class and Survival: Analyzes how fare price correlated with survival rates across different classes.
+ 5.Survival Rates by Embarkation Point: Examines the impact of the port of embarkation on survival. Each visualization is followed by a detailed insight explaining the findings and their significance.
+
 To run the notebook, you need the following Python libraries:
 
-pandas
-numpy
-matplotlib
-seaborn
+ >pandas
+ >numpy
+ >matplotlib
+ >seaborn
 Contributions are welcome! If you have any ideas or suggestions to improve this project, feel free to open an issue or submit a pull request.
